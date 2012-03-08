@@ -7,4 +7,7 @@ class PagesController < ApplicationController
 
   def contact
   end
+  
+  def issues
+  end
 end
